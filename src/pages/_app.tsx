@@ -10,6 +10,8 @@ function App({ Component, pageProps }: AppProps) {
         <title>Next app boilerplate</title>
         <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png" />
         <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png" />
+        <link rel='manifest' href='/manifest.json' />
+        <meta name="theme-color" content="#ffffff"/>
         <meta
           name="description"
           content="Next app boilerplate with Jest, Typescript and Styled Components"
