@@ -1,3 +1,3 @@
 module.exports = {
-  'src/**/*': ['yarn lint --fix', 'git add']
+  'src/**/*': ['yarn lint --fix']
 }
