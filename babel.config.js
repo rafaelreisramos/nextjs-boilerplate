@@ -8,5 +8,5 @@ module.exports = {
         displayName: true
       }
     ]
-  ],
+  ]
 }

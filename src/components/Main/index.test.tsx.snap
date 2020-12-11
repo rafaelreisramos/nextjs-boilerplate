@@ -16,10 +16,12 @@ exports[`<Main /> should render the heading 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+  background-color: #06092b;
 }
 
 .c1 {
   font-size: 5rem;
+  color: #fafafa;
 }
 
 <main
