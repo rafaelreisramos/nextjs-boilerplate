@@ -9,5 +9,6 @@ module.exports = {
   testPathIgnorePatterns: ['/node_modules/', '/.next/'],
   collectCoverageFrom: ['<rootDir>/src/**/*.ts(x)?'],
   coverageDirectory: '<rootDir>/__coverage__',
-  setupFilesAfterEnv: ['<rootDir>/.jest/setup.ts']
+  setupFilesAfterEnv: ['<rootDir>/.jest/setup.ts'],
+  snapshotResolver: './.jest/snapshotResolver.js'
 }
