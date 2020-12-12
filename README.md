@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) boilerplate based in a course called [React Avançado](https://reactavancado.com.br/).
 
-It is a more generic one (without [Storybook](https://storybook.js.org/)) and can be used as a starter point for any [React](https://reactjs.org/) project based on Next.js.
+It is a more generic one (without [Storybook](https://storybook.js.org/)) and can be used as a starting point for any [React](https://reactjs.org/) project based on Next.js.
 
 ## What is inside?
 
